@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/hanagantig"><img src="https://img.shields.io/github/followers/hanagantig.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/hanagantig"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
 <!--
 **hanagantig/hanagantig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
