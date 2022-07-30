@@ -1,8 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm hanagantig</h1>
+<h3 align="center">A passionate golang software engineer</h3>
 
+<br>
 <p align="center">
   <a href="https://github.com/hanagantig"><img src="https://img.shields.io/github/followers/hanagantig.svg?label=GitHub&style=social" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/hanagantig"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://medium.com/@hanagantig"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
+  <a href="https://t.me/hanagantig"><img src="https://img.shields.io/badge/Telegram--_.svg?style=social&logo=telegram" alt="Telegram"></a>
 </p>
 <!--
 **hanagantig/hanagantig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
